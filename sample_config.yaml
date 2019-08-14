@@ -1,0 +1,14 @@
+postgres:
+  username: "placeholder"
+  password: "placeholder"
+  databaseNames:
+    footballData: "placeholder"
+    hangfire: "placeholder"
+    players: "placeholder"
+apiTokens:
+  footballData: "placeholder"
+  apiFootball: "placeholder"
+plotly:
+  username: "placeholder"
+  token: "placeholder"
+discordToken: "placeholder"
